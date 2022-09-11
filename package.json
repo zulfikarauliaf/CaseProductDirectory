@@ -1,0 +1,24 @@
+{
+  "name": "caseproductdirectory",
+  "version": "1.0.0",
+  "description": "rest api product directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zulfikarauliaf/CaseProductDirectory.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zulfikarauliaf/CaseProductDirectory/issues"
+  },
+  "homepage": "https://github.com/zulfikarauliaf/CaseProductDirectory#readme"
+}
