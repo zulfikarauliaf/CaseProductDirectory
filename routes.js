@@ -6,6 +6,6 @@ module.exports = function(app) {
     app.route('/')
         .get(jsonku.index);
 
-    app.route('/show')
+    app.route('/getAll')
         .get(jsonku.getAllProduct);
 }
